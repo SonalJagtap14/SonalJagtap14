@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Mitr Media and Learning Pvt.Ltd as a Software Developer<br><br>🌱 I’m currently learning Full Stack Web Development<br>
+🔭 I’m currently working at Mitr Learning and Media Pvt.Ltd as a Software Developer<br><br>🌱 I’m currently learning Full Stack Web Development<br>
 
 
 ## 🌐 Socials:
